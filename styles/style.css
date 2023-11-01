@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    margin: 0 auto;
+    max-width: 1920px;
+}
+.header__text{
+    align-items: center;
+}
